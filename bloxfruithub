@@ -3,4 +3,4 @@ Config = {
     logoscript = "129376969791760",--ID Logo Script
     tacgia = "t-da-t"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
+_G.Mode = "Eng" loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua"))()
