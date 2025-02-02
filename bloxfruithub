@@ -1,6 +1,6 @@
 Config = {
     namescript = "bloxfruithub",--Tên Script
-    logoscript = "129376969791760",--ID Logo Script
+    logoscript = "138062243061587",--ID Logo Script
     tacgia = "t-da-t"-- Tên Tác Giả
 }
 _G.Mode = "Eng" loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua"))()
